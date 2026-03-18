@@ -22,9 +22,9 @@ This repository will contain all associated scripts to replicate the analyses pr
 
 
 
-### Public Data
+### Data Availability
 
-Data is available through the NCBI GEO portal, accession number GSE255282 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255282). Data is uploaded as the fastq files and the processed count matrices for each library. 
+The raw and processed sequencing data discussed in this publication have been deposited in NCBI Gene Expression Omnibus and are accessible via the accession GEO: GSE322558. 
 
 
  
